@@ -1,0 +1,11 @@
+#paddlepaddle==1.8.2
+torch==1.6.0
+torchvision==0.7.0 
+requests
+sentence_transformers==0.3.6
+fastapi
+uvicorn
+uvloop
+gunicorn
+httptools
+requests
